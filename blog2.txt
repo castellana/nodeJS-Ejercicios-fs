@@ -1,0 +1,1 @@
+Hallo, ich bin der Text im Blog2 erstellt mit JS
